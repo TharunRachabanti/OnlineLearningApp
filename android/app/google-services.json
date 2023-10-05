@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252899865474",
+    "project_id": "talentserve-41c5f",
+    "storage_bucket": "talentserve-41c5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252899865474:android:ea4e510f06ce96fba3159b",
+        "android_client_info": {
+          "package_name": "com.example.talentserve"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252899865474-etuvtivdhgf6q0k44qs90bkf6iptp67s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkOOJZXYFY_Xhi5Rf6BiFYzGf0HJwLbEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252899865474-etuvtivdhgf6q0k44qs90bkf6iptp67s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
